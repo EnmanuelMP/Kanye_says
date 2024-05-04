@@ -7,7 +7,7 @@ This is a simple Python application built with Tkinter that fetches and displays
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/EnmanuelMP/Kanye_says/.git
+    git clone https://github.com/EnmanuelMP/Kanye_says.git
     ```
 
 2. Navigate to the project directory:
